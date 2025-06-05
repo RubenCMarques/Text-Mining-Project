@@ -1,0 +1,9 @@
+# Ignore Conda environment and Python cache
+.conda/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
